@@ -1,2 +1,2 @@
 # pyspark-AI-recommendationSystem
-construct a data processing pipeline using PySpark, implement K-means clustering with OpenAI text embeddings, and develop a recommendation system 
+construct a data processing pipeline using PySpark, implement K-means clustering with OpenAI text embeddings, and develop a recommendation system that suggests products based on user behavior. To achieve this, you will create a personalized product recommendation system by working through a real-world scenario where an e-commerce company needs to improve its recommendation capabilities. This project is unique because it combines powerful tools like PySpark and OpenAI's embeddings for hands-on experience in creating data-driven recommendations.
